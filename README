@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5245
+
+infinity Chan http://www.8ch.net/ formatting syntax.
+
+TODO:
+- strikethrough and underline does not work (create stack or something)
+
+Github: https://github.com/kompowiec2/8ch.vim
